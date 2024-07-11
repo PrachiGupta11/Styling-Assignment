@@ -1,0 +1,50 @@
+.container{
+  height: 100vh;
+  width: 100wh;
+  background-color: #90EE90;
+  
+  display: flex;
+  justify-content:space-evenly;
+  align-items: center;
+  
+}
+#tribute{
+  
+  font-size: 20px;
+  text-align: center;
+  border-radius: 20%;
+  background-color: #008000;
+  height:70px;
+  border: 2px solid black;
+  
+}
+a{
+  font-size: 30px;
+  padding: 50px;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#datingapp{ 
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  border-radius: 20%;
+  background-color: #008000;
+  height:70px;
+  border: 2px solid black;
+}
+
+#tribute:hover{
+  background-color: #90EE90;
+  border: 5px solid #008000;
+}
+
+#datingapp:hover{
+  background-color: #90EE90;
+  border: 5px solid #008000;
+}
+a:hover{
+  color: #000000;
+}

@@ -1,0 +1,44 @@
+h1 {
+  color: deeppink;
+  margin: 20px;
+  padding-left: 500px;
+}
+
+label {
+  color: deeppink;
+}
+
+form {
+  border: solid lightgrey;
+  padding: 20px;
+
+  margin-left: 380px;
+  background-color: floralwhite;
+  width: 500px;
+}
+
+#button {
+  background-color: deeppink;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 20px;
+  width: 100px;
+}
+
+input {
+  border: solid ghostwhite;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+}
+body{
+  background-color: antiquewhite;
+}
+#button:hover{
+  background-color: floralwhite;
+  border: 2px solid deeppink;
+  color: deeppink;
+  
+}
